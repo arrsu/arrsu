@@ -4,14 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrsu&label=Profile%20views&color=0e75b6&style=flat" alt="arrsu" /> </p>
 
-- 🌱 I’m currently learning **Web Development Courses, etc.**
+- 🌱 I’m currently studying**B.SC IT**
 
 - 📫 You can reach me **arshumardi67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshu mardi" height="30" width="40" /></a>
-<a href="https://instagram.com/arrsu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arrsu_" height="30" width="40" /></a>
+
 <a href="https://discord.com/channels/me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0406" height="30" width="40" /></a>
 </p>
 
